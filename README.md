@@ -1,8 +1,7 @@
-## 🤝 YoteAyudo Marketplace Project
+## 🤝 #YoteAyudo Marketplace Project
+ 
+ 🌐 Description:
 
-> [!NOTE]  
-> 🌐 Description:
->
 > YoteAyudo is a marketplace that offers a variety of services for young and middle-aged adults who are open to trying new things and enjoying cultural diversity. From language exchanges to pet care and companionship, YoteAyudo connects people with similar interests and promotes collaboration and social connection.
 > 
 > 🏚️ Services Offered:
@@ -34,6 +33,10 @@
 - Figma (UI/UX)
 - Trello (Organizaton)
 - Discord (Comunication)
+
+## 📐 Tools
+- Trello [Trello board](https://trello.com/b/625W4Ssb/hackaton-yoteayudo)
+- Figma [Figma Team Project](https://www.figma.com/file/lyfHr7N97QfODEt1cymtKt/yoteayudo?type=design&node-id=0%3A1&mode=design&t=UUTDnvtmy9E4tPcG-1)
 
 ## 📁 File Structure:
 
@@ -119,8 +122,8 @@ npm run dev
 - David Altamirano - [Linkedin profile](https://www.linkedin.com/in/jdaltamiranodev/)
 - Gabriel Pastor - [Linkedin profile](https://www.linkedin.com/in/byron-gabriel-pastor-viteri/)
 - Elle - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
-- Nuria -
-- Natalia -
+- Nuria - [Linkedin profile](https://www.linkedin.com/in//)
+- Natalia - [Linkedin profile](https://www.linkedin.com/in//)
 
 > [!TIP]
 >
